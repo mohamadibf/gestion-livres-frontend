@@ -1,4 +1,6 @@
 # Application de Gestion de Bibliothèque - Frontend
+![image](https://github.com/user-attachments/assets/7a032ef4-6ee1-44d7-bca0-9759b0b01bf2)
+
 
 ## 📚 Aperçu
 Application React moderne pour gérer une collection de livres avec fonctionnalités CRUD complètes et upload d'images.
