@@ -20,7 +20,7 @@ Application React moderne pour gérer une collection de livres avec fonctionnali
 
 3. **Installation & Configuration**
    ```bash
-   git clone https://github.com/votre-repo.git
+   git clone https://github.com/mohamadibf/gestion-livres-frontend.git
    cd frontend
    npm install
    cp .env.example .env
